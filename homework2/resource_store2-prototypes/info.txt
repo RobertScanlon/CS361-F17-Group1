@@ -1,0 +1,1 @@
+prototypes for resource store use case 2 - returning user
